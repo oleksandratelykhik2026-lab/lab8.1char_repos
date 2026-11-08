@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\8.1 char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B6C584-1E19-890C-D7FC-02EA8D65E2AC}|UnitTest8.1 char\\UnitTest8.1 char.vcxproj|D:\\Student\\8.1 char\\UnitTest8.1 char\\UnitTest8.1 char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59B6C584-1E19-890C-D7FC-02EA8D65E2AC}|UnitTest8.1 char\\UnitTest8.1 char.vcxproj|solutionrelative:UnitTest8.1 char\\UnitTest8.1 char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2079E5-3FE6-4A74-BBE5-172F1EB2A0FF}|8.1 char\\8.1 char.vcxproj|D:\\Student\\8.1 char\\8.1 char\\8.1 char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE2079E5-3FE6-4A74-BBE5-172F1EB2A0FF}|8.1 char\\8.1 char.vcxproj|solutionrelative:8.1 char\\8.1 char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest8.1 char.cpp",
+              "DocumentMoniker": "D:\\Student\\8.1 char\\UnitTest8.1 char\\UnitTest8.1 char.cpp",
+              "RelativeDocumentMoniker": "UnitTest8.1 char\\UnitTest8.1 char.cpp",
+              "ToolTip": "D:\\Student\\8.1 char\\UnitTest8.1 char\\UnitTest8.1 char.cpp",
+              "RelativeToolTip": "UnitTest8.1 char\\UnitTest8.1 char.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-08T19:53:20.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "8.1 char.cpp",
+              "DocumentMoniker": "D:\\Student\\8.1 char\\8.1 char\\8.1 char.cpp",
+              "RelativeDocumentMoniker": "8.1 char\\8.1 char.cpp",
+              "ToolTip": "D:\\Student\\8.1 char\\8.1 char\\8.1 char.cpp",
+              "RelativeToolTip": "8.1 char\\8.1 char.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-08T19:50:00.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
